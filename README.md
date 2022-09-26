@@ -1,8 +1,10 @@
 # CVS JSON CONVERT
 
-A shortlinks api rest
-is a simple URL shortener app. It will convert your boring long URL into nice and simple link with very great
-[cvs-to-json.vercel.app]()
+
+a res api service with which you can convert csv files to json
+With this link you can access the deployed project, keep in mind that it only has the post service to convert your csv files
+[https://csv-to-json-convert-7stt.vercel.app/api/convert/csvjson](https://csv-to-json-convert-7stt.vercel.app/api/convert/csvjson)
+
 
 ## Install
 
@@ -41,4 +43,4 @@ visit the port [http://localhost:3001](http://localhost:3001) (client side)
 
 ### INVALIDED FILE NAME OR FORMAT
 
-![alt](./assets/testInsomnia2.png)
+![alt](./assets/testinsomnia2.png)
