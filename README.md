@@ -6,7 +6,7 @@ With this link you can access the deployed project, keep in mind that it only ha
 [https://csv-to-json-convert-7stt.vercel.app/api/convert/csvjson](https://csv-to-json-convert-7stt.vercel.app/api/convert/csvjson)
 
 
-[![SonarCloud](https://sonarcloud.io/summary/overall?id=Carlos-Carsdfj_csv-to-json-convert)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Carlos-Carsdfj_csv-to-json-convert&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Carlos-Carsdfj_csv-to-json-convert)
 [![CodeFactor](https://www.codefactor.io/repository/github/carlos-carsdfj/csv-to-json-convert/badge)](https://www.codefactor.io/repository/github/carlos-carsdfj/csv-to-json-convert)
 
 ## Install
