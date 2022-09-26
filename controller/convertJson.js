@@ -1,6 +1,6 @@
 const convertJson = require('express').Router()
 const csvToJson = require('convert-csv-to-json')
-convertJson.post('/cvsjson', async (req, res, next) => {
+convertJson.post('/csvjson', async (req, res, next) => {
   try {
     const cvsFile = req.files.file
     if (!cvsFile) {
