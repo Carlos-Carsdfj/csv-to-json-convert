@@ -44,3 +44,13 @@ visit the port [http://localhost:3001](http://localhost:3001) (client side)
 ### INVALIDED FILE NAME OR FORMAT
 
 ![alt](./assets/testinsomnia2.png)
+
+
+##  TECHNOLOGIES
+
+The most relevant library that was used was [convert-csv-to-json](https://www.npmjs.com/package/convert-csv-to-json), which is a library that allows converting csv files in various formats to json
+
+##  CONTACT
+  * email:carsdfj@gmail.com
+  * [twitter/ferreira_jardin](https://twitter.com/ferreira_jardin)
+  * [linkedin/carlos-jardin](https://www.linkedin.com/in/carlos-ferreira-jardin-799bb0145/)
