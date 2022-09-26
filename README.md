@@ -1,4 +1,4 @@
-# CVS JSON CONVERT
+# CSV JSON CONVERT
 
 
 a res api service with which you can convert csv files to json
